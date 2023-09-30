@@ -1,0 +1,27 @@
+ .sec-1{
+  display: flex;
+  float: right;
+  /* justify-content: space-around; */
+  align-items: top;
+    column-gap: 2px;
+    width: 20vw;
+    height: 100vh;
+    border: 1px solid black;
+    overflow: scroll;
+ }
+  .fbs-one{
+   width: 40%;
+    height: 20vh;
+    border: 1px solid black;
+    /* position: relative; */
+    margin-top: 10px;
+  }
+  .fb-two{
+    width: 40%;
+     height: 20vh;
+     border: 1px solid red;
+     margin-right: 40px;
+     margin-top: 10px;
+     overflow:hidden;
+   }
+    
